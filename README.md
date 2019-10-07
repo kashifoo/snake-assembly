@@ -1,7 +1,7 @@
 snake-assembly
 ==============
 
-The "snake" game in IA-32 assembly language. I made it as the course project for my course in assembly language programming (undertaken in Fall 2007).
+The "snake" game in IA-32 assembly language. I made it as the course project for my course in assembly language programming.
 
 
 Running the program
@@ -28,4 +28,4 @@ For added challenge, players can select a level:
 Information on compiling the code
 ---------------------------------
 
-snake.asm contains the code for the game. It is dependent on Irvine32.inc which is not provided in this repository. Irvine32.inc and other required files and information for compiling the code in your environment is available at: http://kipirvine.com/asm/
+snake.asm contains the code for the game. It is dependent on Irvine32.inc which is not provided in this repository.
